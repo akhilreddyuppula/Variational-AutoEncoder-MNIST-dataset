@@ -3,6 +3,8 @@ PyTorch VAE trained on MNIST — encoder learns latent distributions (μ, σ), d
 
 
 vae.py        ← VAE model (encoder + decoder)
+
+
 vaetrain.py   ← training loop + inference
 
 How it works:
